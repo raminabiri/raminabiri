@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @raminabiri
+- 👀 I’m interested in Microbiology, Celll and molecular Biology, Bioinformatics, Data science
+- 🌱 I’m currently learning Machine learning and Data science
+-  Contact: https://www.linkedin.com/in/raminabiri/
